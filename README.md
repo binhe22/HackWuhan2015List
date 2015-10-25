@@ -37,6 +37,8 @@
 
 [约码？](https://github.com/UniqueStudio/YueMa)
 
+[Talk-with-barrage chrome弹幕插件](https://github.com/shimohq/barrage)
+
 [口袋实验室-悟空间](https://github.com/wukongclub/wukong)
 
 [今日佳肴--K神511](https://github.com/511Hackathon/DeliciousToday)
